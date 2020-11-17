@@ -2777,3 +2777,18 @@ java.net.UnknownHostException: jope.ow2.org
 	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
 	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 13:23:49.510
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.veSXnSPy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 13:23:49.645
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.veSXnSPy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 13:23:49.661
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 13:23:49.676
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.veSXnSPy => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-11-17 13:23:51.539
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
