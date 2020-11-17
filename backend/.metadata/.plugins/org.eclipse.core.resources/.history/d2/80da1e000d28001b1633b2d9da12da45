@@ -1,0 +1,22 @@
+package com.lakica.demo.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Entity
+@Table(name = "mime")
+@Data
+public class Mime {
+
+	private int id;
+	
+	private int rbr;
+	
+	private String ext;
+	
+	private String att64;
+	
+	private String naziv;
+}

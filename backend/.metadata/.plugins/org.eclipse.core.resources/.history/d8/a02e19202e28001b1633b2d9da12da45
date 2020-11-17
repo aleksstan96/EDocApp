@@ -1,0 +1,9 @@
+spring.datasource.platform=postgres
+spring.datasource.url=jdbc:postgresql://localhost:5432/edoc
+spring.datasource.username=postgres
+spring.datasource.password=kursulina14
+
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.hibernate. =true
+spring.jpa.show-sql=true
+

@@ -1,0 +1,5 @@
+server.datasource.platform=postgres
+server.datasource.url=jdbc:postgresql://localhost:5432/new_db
+server.datasource.username=postgres
+server.datasource.password=kursulina14
+

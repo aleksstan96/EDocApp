@@ -1,0 +1,5 @@
+package com.lakica.demo.dao;
+
+public class MimeRepository {
+
+}

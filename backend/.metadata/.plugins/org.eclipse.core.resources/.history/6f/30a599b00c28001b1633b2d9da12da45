@@ -1,0 +1,5 @@
+package com.lakica.demo.entity;
+
+public class Mime {
+
+}

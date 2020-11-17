@@ -1,0 +1,11 @@
+import org.aspectj.weaver.ast.Test;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.rest.core.annotation.RepositoryRestResource;
+import org.springframework.web.bind.annotation.CrossOrigin;
+
+@CrossOrigin
+@RepositoryRestResource(collectionResourceRel  = "proizvodi",  path = "proizvodi")
+public interface MimeRepository extends JpaRepository<Test, Long>{
+	
+	
+}
